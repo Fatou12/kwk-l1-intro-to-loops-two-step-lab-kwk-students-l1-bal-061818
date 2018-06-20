@@ -29,8 +29,8 @@ def a_few_more_steps
     puts "right foot steps right"
     puts "turn right"
     sleep(1)
-    
-     sleep(0.5)
+    break
+  end  
   # Write a loop that outputs the first two sets of steps in the Two-Step
 end
 

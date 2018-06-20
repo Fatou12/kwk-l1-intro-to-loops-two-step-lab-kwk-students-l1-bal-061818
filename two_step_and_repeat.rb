@@ -35,8 +35,13 @@ def a_few_more_steps
     break
   end
 end
-a_few_more_steps
+
 def how_many_steps?
+  steps = 0
+  loop do
+    steps += 1
+    puts steps
+    
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 

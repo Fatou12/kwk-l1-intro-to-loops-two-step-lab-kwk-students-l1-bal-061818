@@ -24,10 +24,13 @@ def a_few_more_steps
     sleep(0.5)
     puts "Stop"
     sleep(1)
-    puts "right foot steps right and back"
-    puts "left foot crosses over right"
-    puts "right foot steps right"
-    puts "turn right"
+    puts "Right foot steps right and back"
+    sleep(0.5)
+    puts "Left foot crosses over right"
+    sleep(0.5)
+    puts "Right foot steps right"
+    sleep(0.5)
+    puts "Turn right"
     sleep(1)
     break
   end

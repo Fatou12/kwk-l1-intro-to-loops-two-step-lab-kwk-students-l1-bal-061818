@@ -30,8 +30,7 @@ def a_few_more_steps
     puts "turn right"
     sleep(1)
     break
-  end  
-  # Write a loop that outputs the first two sets of steps in the Two-Step
+  end
 end
 
 def how_many_steps?
